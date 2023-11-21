@@ -1,0 +1,31 @@
+GET http://localhost:3000/
+
+###
+
+POST http://localhost:3000/register
+Content-Type: application/json
+
+{
+  "username": "testUser",
+  "email": "testmail@randommail.com",
+  "password": "123"
+}
+
+
+###
+POST http://localhost:3000/login
+Content-Type: application/json
+
+{
+  "username": "testUser",
+  "password": "123"
+}
+
+###
+
+GET http://localhost:3000api/getvideos
+
+{
+  "userId": "ObjectId('655bc6f5d4064a0206af4abd')"
+}
+
