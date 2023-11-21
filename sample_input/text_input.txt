@@ -1,0 +1,22 @@
+itle = "Uttarkashi Tunnel Collapse"
+
+article = """
+Uttarkashi Tunnel Collapse: In Uttarakhand, the Silkyara tunnel collapsed on November 12, trapping around 41 men. A rescue operation for these trapped workers was put on hold on November 19 as the agencies were involved in preparing for the next stage by adopting multiple approaches to reach the men trapped for the past few days. Stay tuned for Uttarkashi Tunnel Collapse LIVE News Updates only at LiveMint.
+In order to rescue the 41 trapped men, Tehri Hydroelectric Development Corporation was going to start 'micro tunneling' on Sunday night on the Char Dham route from the Barkot end of the under-construction tunnel. On November 17, an American-made heavy-duty auger machine encountered a hard obstacle while boring for about 22 metres through the collapsed debris of 60-metre stretch from the Silkyara end. The boring through the debris has for now been halted.
+A series of alternative rescue plans to reach the workers trapped inside the under-construction tunnel are being worked upon. According to officials, a road to the top of the hill has been laid to dig a vertical shaft into the tunnel. Union Road Transport Minister Nitin Gadkari on Sunday said a breakthrough is expected in two and a half days.
+The built-up portion of the tunnel is about two kilometres and is 8.5 metres high with availability of water and electricity. So far, a 6-inch wide tube has been pushed 39 metres deep into the rubble that would send food and water to the trapped men once it cuts through completely.
+
+
+"""
+'''After reviewing the accident site, foreign tunnel expert Arnold Dix said that the the rescue team is doing a lot of work for the safety of trapped workers. He also underlined that enormous amount of work has been done in preparation before the execution of plan.
+"I only arrived yesterday but the work I have seen even between yesterday and today is extraordinary... Plan for today is working out the best thing to do to get the men out," Dix said. 
+However, the tunnel expert abstained from giving a timeline for the rescue opertion and said that the team is trying hard to bring out the trapped men safe and alive. '''
+
+
+userid = '655bc6f5d4064a0206af4abd'
+
+media_list = ["/content/img1.jpg", "/content/img2.png", "/content/img3.png"]
+
+langcode = "ta-IN"
+
+generate_result(title, article, userid, media_list, langcode)
